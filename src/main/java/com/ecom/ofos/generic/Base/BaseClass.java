@@ -23,7 +23,7 @@ import com.ecom.ofos.generic.Webaction.Seleniumutility;
  * this class contains all configaration annotation
  * @author saraswathi.B
  */
-
+//comment from rakesh
 public class BaseClass extends Basedeclaration{
  		
 	/**
