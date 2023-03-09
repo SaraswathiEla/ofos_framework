@@ -55,7 +55,7 @@ public class AddCatagoryusingusingGenericMethodsImplementation {
 	 	String aLoginTitile = seleniumutility.getPageTitle();
 	    AdminLoginPage l=new AdminLoginPage(driver);
 	    verificationUtility.exactVerifyUsingSwitch(aLoginTitile, eLoginTitile, "page", aLoginTitile);
-	   	
+	   	//jklasdjlkjadlkklsd
 	   l.adminLoginAction(admin, pwd);
        
 	   String eHomeTitile="Admin Panel";
